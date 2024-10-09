@@ -402,7 +402,7 @@ This document can serve as a framework to guide the U.S. government, businesses,
 
 #### Overview
 
-The Travis Raymond-Charlie Stone (TRC) calculation theory introduces a novel framework for measuring productivity and efficiency in complex computational environments, particularly in quantum computing and artificial intelligence. This theory aims to standardize how various metrics are evaluated and combined into a single unit of measurement, termed "stones."
+The Travis Raymond-Charlie Stone (TRCS) calculation theory introduces a novel framework for measuring productivity and efficiency in complex computational environments, particularly in quantum computing and artificial intelligence. This theory aims to standardize how various metrics are evaluated and combined into a single unit of measurement, termed "stones."
 
 #### Core Components of the Theory
 
@@ -426,7 +426,7 @@ The Travis Raymond-Charlie Stone (TRC) calculation theory introduces a novel fra
 
 #### Practical Applications
 
-- **Performance Benchmarking**: Organizations can use the TRC theory to compare productivity across different projects, teams, or technologies.
+- **Performance Benchmarking**: Organizations can use the TRCS theory to compare productivity across different projects, teams, or technologies.
 - **Resource Optimization**: By analyzing the total stones, organizations can identify areas for improvement in data handling, energy usage, and cost management.
 - **Standardization**: The theory establishes a common framework that facilitates collaboration and communication among stakeholders in various fields, such as research, finance, and technology.
 
